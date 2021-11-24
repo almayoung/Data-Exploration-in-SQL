@@ -8,10 +8,12 @@ Covid 19 Data Exploration
 
 
 ![image](https://user-images.githubusercontent.com/16657494/142969800-eec8a81a-60a1-411e-8ba2-56c3d8e5a89c.png)
+              
 
+* **Total Cases vs Total Deaths** 
+     - In the United States, there are 46,789,031 total cases and total deaths of 758,916 as of November 10, 2021. The likelihood of dying if someone contracts COVID in the US is 1.62%.
 
-* **Total Cases vs Total Deaths**
-* **Shows survival rate if you contract covid**
+![image](https://user-images.githubusercontent.com/16657494/143155704-a2623606-b7b1-4b7a-b8f4-6c1ade23bff4.png)
 
 
 
