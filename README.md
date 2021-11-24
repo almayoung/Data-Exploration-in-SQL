@@ -26,6 +26,17 @@ Covid 19 Data Exploration
      
 ![image](https://user-images.githubusercontent.com/16657494/143174909-c6790d08-ec7d-4e74-b438-fdec8b75ae0f.png)
 
+* **Countries with Highest Death Count per Population**
+     - As of November 10, 2021, the United States has the highest death count with 758,916 total deaths.
+     
+![image](https://user-images.githubusercontent.com/16657494/143175670-e85b7823-c578-4d96-a7c1-912c59906631.png)
+
+* **Showing contintents with the highest death count per population**
+     - As of November 10, 2021, North America has the highest death count with 758,916 total deaths.
+     
+![image](https://user-images.githubusercontent.com/16657494/143176184-b6cb9a42-64ea-47c3-a9b6-919d63c48646.png)
+
+
 
 
 
