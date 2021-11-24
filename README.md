@@ -22,9 +22,10 @@ Covid 19 Data Exploration
 ![image](https://user-images.githubusercontent.com/16657494/143163829-400c7c75-15d2-4c89-b0d7-15c75a0c7038.png)
 
 * **Top 10 countries with Highest Infection Rate compared to Population**
-     - Top 10 countries with highest infection rate
+     - Montenegro has the highest infection rate compared to population with 23.93% of its population infected with COVID-19 as of November 10th, 2021.
      
-![image](https://user-images.githubusercontent.com/16657494/143169150-54edfc59-28ae-4d39-b586-d235fcc3987f.png)
+![image](https://user-images.githubusercontent.com/16657494/143174909-c6790d08-ec7d-4e74-b438-fdec8b75ae0f.png)
+
 
 
 
