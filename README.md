@@ -11,9 +11,15 @@ Covid 19 Data Exploration
               
 
 * **Total Cases vs Total Deaths** 
-     - In the United States, there are 46,789,031 total cases and total deaths of 758,916 as of November 10, 2021. The likelihood of dying if someone contracts COVID in the US is 1.62%.
+     - In the United States, there were 46,789,031 total cases and total deaths of 758,916 as of November 10th, 2021. The likelihood of dying if someone contracts COVID in the US is 1.62%.
 
 ![image](https://user-images.githubusercontent.com/16657494/143155704-a2623606-b7b1-4b7a-b8f4-6c1ade23bff4.png)
+
+* **Total Cases vs Population**
+* **Shows what percentage of population infected with Covid**
+     - As of November 10, 2021, 2.53% of Philippine’s population was infected by COVID-19.
+     
+![image](https://user-images.githubusercontent.com/16657494/143163829-400c7c75-15d2-4c89-b0d7-15c75a0c7038.png)
 
 
 
