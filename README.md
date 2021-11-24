@@ -21,10 +21,12 @@ Covid 19 Data Exploration
      
 ![image](https://user-images.githubusercontent.com/16657494/143163829-400c7c75-15d2-4c89-b0d7-15c75a0c7038.png)
 
+* **Top 10 countries with Highest Infection Rate compared to Population**
+     - Top 10 countries with highest infection rate
+     
+![image](https://user-images.githubusercontent.com/16657494/143169150-54edfc59-28ae-4d39-b586-d235fcc3987f.png)
 
 
-This project makes use of ***SQL***  coupled with ***Tableau visualization*** .
 
-* **Input:** 
-* **Output:** 
+
 
