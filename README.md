@@ -36,6 +36,12 @@ Covid 19 Data Exploration
      
 ![image](https://user-images.githubusercontent.com/16657494/143176184-b6cb9a42-64ea-47c3-a9b6-919d63c48646.png)
 
+* **GLOBAL NUMBERS**
+     - As of November 10, 2021, there are 250,793,843 total cases, 5,055,502 total deaths, and 2.02% death percentage worldwide.
+     
+![image](https://user-images.githubusercontent.com/16657494/143452111-49b05c12-dd30-469d-af24-71ca0264fee1.png)
+
+
 
 
 
