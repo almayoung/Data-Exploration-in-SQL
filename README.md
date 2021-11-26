@@ -1,8 +1,7 @@
 # Data Exploration in SQL
-Covid 19 Data Exploration
 
-# The Data
-[Our World in Data - Deaths](https://ourworldindata.org/covid-deaths), [Our World in Data - Vaccinations](https://ourworldindata.org/covid-vaccinations)
+## The Data
+**[Our World in Data - Deaths](https://ourworldindata.org/covid-deaths)**
 
 * **Display the continent, location, date, population, total cases, new cases, and total deaths column.**
 
